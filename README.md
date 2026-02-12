@@ -1,27 +1,26 @@
-# 🐍 Dominio de Python: 100 días, 100 proyectos
+# 🐍 Mi Camino en Python: Reto 100 Días y Más
 
-¡Bienvenidos! Este repositorio es mi bitácora personal de aprendizaje. Aquí documento mi progreso diario mientras domino las bases de la programación con Python, enfrentando retos que van desde la lógica simple hasta la manipulación de datos.
+¡Bienvenido a mi repositorio central de aprendizaje! Aquí documento mi progreso, ejercicios y proyectos desarrollados en Python. 🚀
 
-## 🚀 Proyectos y Ejercicios
-Actualmente, el repositorio incluye los siguientes módulos de práctica:
+## 📚 Estructura del Repositorio
 
-* **Fundamentos de Consola:**
-    * `Hola mundo.py`: Mi primer script.
-    * `Edad por consola.py` y `Usuario por consola.py`: Captura y manejo de entradas de usuario.
-* **Lógica y Control:**
-    * `Contador WHILE.py` y `Mostrarlista FOR.py`: Uso de bucles para automatizar tareas.
-    * `Juego Numero Random.py`: Implementación de lógica aleatoria y condicionales.
-* **Estructuras de Datos (Listas):**
-    * `Agregar elemento a lista.py`
-    * `Modificat elemento de lista.py`
-    * `Mostrar elemento de lista.py`
-* **Manejo de Información:**
-    * `Datos_Personales.py`: Almacenamiento y despliegue de variables.
+### 1. [Curso 100 Días de Python](./01-Curso-100-Dias/)
+Proyectos diarios para fortalecer la lógica y el dominio del lenguaje.
+* **Día 1:** [Generador de Bienvenida 👋](./01-Curso-100-Dias/01-Generador-Bienvenida) - Manejo de entradas, salidas y formato de strings.
 
-## 🛠️ Tecnologías
-* **Lenguaje:** Python 3.x
-* **Entorno:** Visual Studio Code
-* **Control de Versiones:** Git
+### 2. Otros Proyectos y Scripts 🛠️
+* *Próximamente contenido de otros cursos y herramientas útiles.*
 
-## 🎯 Objetivo
-Completar los 100 días de práctica para construir una base sólida como Desarrollador de Software y compartir mis soluciones con la comunidad.
+## 📈 Mi Progreso
+| Día | Proyecto | Tema Principal | Status |
+| :---: | :--- | :--- | :---: |
+| 01 | Generador de Bienvenida | `input()` & `print()` | ✅ |
+| 02 | Próximamente... | | ⏳ |
+
+## 💻 Herramientas Utilizadas
+* **Editor:** Visual Studio Code
+* **Control de Versiones:** Git & GitHub
+* **Terminal:** Git Bash (MINGW64)
+
+---
+*“Un paso más cerca de ser Desarrollador cada día.”* ✨
