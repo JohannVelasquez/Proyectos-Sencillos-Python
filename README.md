@@ -1,27 +1,38 @@
-# 🐍 Master en Python: De Cero a Proyectos Reales
+# 🐍 Master en Python: Mi Ruta de Aprendizaje
 
-¡Bienvenido a mi centro de aprendizaje de Python! En este repositorio documento mi evolución a través de diferentes rutas de estudio, ejercicios de lógica y aplicaciones prácticas.
-
-## 🗺️ Mis Rutas de Aprendizaje
-
-### 1. [Reto: 100 Días de Python](./01-Curso-100-Dias/)
-*Basado en el curso de lógica y fundamentos.*
-* **Día 1:** [Generador de Bienvenida 👋](./01-Curso-100-Dias/01-Generador-Bienvenida) - Manejo de `input()`, `print()` y comentarios.
-
-* **Estado:** 🔵 En curso (1/100).
-
-### 2. [Python Mastery: +20 Proyectos Reales]
-*20 Proyectos en entorno real.*
-* **Estado:** ⚪ Pendiente por iniciar.
-* **Objetivo:** Construir herramientas comerciales y scripts automatizados.
+Bienvenido a mi repositorio central de Python. Aquí documento mi proceso de aprendizaje, desde los fundamentos más básicos hasta el desarrollo de lógica compleja, organizado en diferentes rutas y proyectos propios.
 
 ---
 
-## 💻 Herramientas Utilizadas
+## 🗺️ Estructura del Repositorio
+
+### 1. [🔥 Reto: 100 Días de Python](./01-Curso-100-Dias/)
+Mi base de entrenamiento diaria. Cada día subo un nuevo concepto aplicado a un reto práctico.
+* **Día 1:** Generador de nombres (Manejo de strings).
+* **Día 2:** [Saludo Personalizado y Edad](./01-Curso-100-Dias/02-Saludo-Personalizado-Con-Variables/) ✅ - *Uso de `datetime` y f-strings.*
+
+### 2. [💡 Proyectos Personales](./Proyectos-Personales/)
+Este es mi "laboratorio" de innovación. Aquí aplico lo aprendido en herramientas útiles creadas desde cero por iniciativa propia.
+* **Proyecto 01:** [Calculadora de Edad](./Proyectos-Personales/Calculadora-de-Edad.py) - Lógica avanzada con meses y días.
+* **Próximamente:** Calculadora de IMC (Índice de Masa Corporal).
+
+### 3. [📘 Python Mastery - Nico Madero](./02-Python-Mastery-Nico/)
+Ruta enfocada en Python profesional y proyectos de nivel comercial (en preparación).
+
+---
+
+## 📊 Estadísticas de Progreso
+* **Días completados:** 02 / 100
+* **Proyectos Propios:** 01
+* **Último concepto dominado:** Comparación de tuplas y lógica de fechas.
+
+---
+
+## 🛠️ Herramientas Utilizadas
+* **Lenguaje:** Python 3.12+
 * **Editor:** Visual Studio Code
 * **Control de Versiones:** Git & GitHub
-* **Terminal:** Git Bash
 
-> "El código que escribas hoy es el fundamento de lo que construirás mañana." ✨
+---
+*“La persistencia es el camino del éxito.”* ```
 
-12/Febrero/2026
